@@ -1,0 +1,155 @@
+{
+  "muses": [
+    {
+      "info": {
+        "name": "Tsukasa Tenma",
+        "series": "Project Sekai",
+        "identification_no": "D-5P0T1IGH7",
+        "age": "18",
+        "arrival_date": "03/10/2025",
+        "gender": "AMAB Nonbinary (he/him)",
+        "sexuality": "\"Pansexual\" (actually homosexual because Rui was his gay awakening)",
+        "housing": "Southern Glen, Block #3, 307 w/ Rui Kamishiro",
+        "rank": "Kathodos",
+        "classes": "Shielder/Navigator",
+        "guilds": "Children of the Stars, Search and Rescue, and Lorekeepers",
+        "jobs": "Actor @ Solaria Opera House, Part-time worker @ Last Stitches",
+        "keywords": "boisterous, charismatic, passionate",
+        "desired_subclass": "Navigator <i>(Achieved)</i>",
+        "goals": "To stay with Rui until the curtain call.",
+        "personality": "<p>Tsukasa has a rather energetic and bright personality that people at first glance might call obnoxiously loud and strange. He has a habit of showing off to express himself that often gives secondhand embarrassment to others like his sister. He can be a little egocentric, when he gets too absorbed in his goal of becoming a star, but his friends helped him realize how much he loves performing and through performances, his charisma and radiance truly shines.</p> <p>The intensity of his personality comes from his strong passion for acting, desiring to grow much more as an actor through each show and role he performs. Though Tsukasa can be a little silly at times, he is a reliable and diligent person who studies the character given to him deeply and practices his role until he feels satisfied. However, he has a tendency to overwork himself when his vision becomes too narrow and he gets obsessed with trying to achieve a certain result. When issues like that come for him, he will remain open-minded and take any advice others give him to apply to his acting, helping him achieve breakthroughs.</p> <p>He has exceptional faith in his troupe members and believes in them, despite some initial misgivings he may have. The bond he has with them serves a reminder to him about his feelings to make people happy by putting on a fantastic show.</p>",
+        "trivia": [
+          "He spent all the money he had on him upon coming to Solasta, to buy a piano that barely fits in his apartment because it feels wrong to him not to have one.",
+          "He spent all the money he had on him upon coming to Solasta, to buy a piano that barely fits in his apartment because it feels wrong to him not to have one.",
+          "Adopted a male Sun Conure for a pet and his name is Crimson Starlet Phoenix Tenma (Crimson Phenny for short) and a male Green-Cheeked Conure with a violet color mutation named Rainbow Miracle Wonder Kamishiro",
+          "Sparring with Ithaqua often for training",
+          "He's very good with all manners of managing the household now",
+          "Wears a matching choker with his significant other"
+        ],
+        "application_link": "https://docs.google.com/document/d/1nMdxri_hVedi_PEbV5xI3RIr2Ke42W9DjgXBUirVZvk/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_Tsukasa Tenma_.png",
+        "banner_img": "images/banners/tsukasa.png",
+        "icon": "images/icons/tsukasa_icon.jpg",
+        "color_code": "#FFBB00"
+      },
+      "plotting": {
+        "preferred_areas": "Can be found almost anywhere but his current favorite go-to places are: Fortuna Association, Last Stitches, Dynamic Designs, Imaginarium Theatre, Solasta Opera House, Blue Ridge Mall, Moonlight Borough",
+        "interaction_notes": "Tsukasa has the energy between an Abyssinian cat and a Shiba Inu, so please be mindful he's extremely social and loud and maybe overdramatic at times! He's a bit of a busybody so he tends to reach out to people. (And honestly I would love to put him more out there.)",
+        "shipping": "Tsukasa is <b>closed</b> for shipping. He is completely devoted to his director and moon, <b>Rui Kamishiro</b>.",
+        "nsfw": "✅ Tsukasa is 18. Can partake in discussion of topics but exclusive to partner only.",
+        "plotting_hooks": [
+          "Meeting Tsukasa at Last Stitches, his other part-time job. He can repair any tears and strike up a conversation about fashion.",
+          "Mall. He’s always looking for new places to explore so he can go with his partner or friend in the future.",
+          "Training. (He’s a Guardian/Navigator). He is very dedicated to keeping his body in shape and keeping up with classes.",
+          "Tokusatsu club. Heroes greatly interest him and he also likes learning about the production process behind a hero show.",
+          "Piano! Sometimes, Tsukasa may ask the owner if he could play on it for a bit. He will happily talk about the piano.",
+          "Plushies! He can be found in shops that sell plushies or make them.",
+          "Street performance! He and Rui have a habit of performing guerilla shows. He will happily talk about shows.",
+          "Opera House! He's working on several scripts of his own. Again, he will happily talk about shows and probably also have a deeper conversation about production.",
+          "Paws Rising. He recently got another pet bird so he's always looking for advice on how to raise his birb sons.",
+          "Reaching out to him indirectly by Rui or other friends",
+          "Reaching out to him for romantic advice whether it's him asking or asking him. (I promise he gives solid advice most of the time…)",
+          "Talking about siblings with him. He really misses his siblings!!"
+        ]
+      },
+      "relationships": [
+        {
+          "name": "Rui Kamishiro",
+          "level": "love",
+          "description": "<i>If the end<br/> Of the world arrived now,<br/> Then I would leave everything behind<br/> And the two of us would be together forever</i>",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "info": {
+        "name": "Caelus",
+        "series": "Honkai Star Rail",
+        "identification_no": "B-64L4C71CB453B4LL3R",
+        "age": "21",
+        "arrival_date": "10/7/2024",
+        "gender": "Cismale (he/him)",
+        "sexuality": "Asexual Grayromantic",
+        "housing": "Honeydew Point, First Floor, B-1",
+        "rank": "Moros",
+        "classes": "Guardian/Forager",
+        "guilds": "Toxicology & Contamination (Intern)",
+        "jobs": "General Coach @ Bathaus",
+        "keywords": "inquisitive, bold, trollish",
+        "desired_subclass": "Forager <i>(Achieved)</i>",
+        "goals": "To return back to the Astral Express(?)",
+        "personality": "<p>At first glance, Caelus seems like a calm and collected individual. In most situations and combat, he can be a rational thinker and is not afraid to take charge. He is also capable of negotiating in order to win a debate. Unfortunately, when he is presented with set choices he needs to make, he tends to make the bolder and riskier choices... which half the time is resolved by combat.</p> <p>Underneath his calm exterior, Caelus embodies the spirit of the Trailblaze, having the explorer’s heart to interact with everything… trash cans included. He also tries to reap rewards any time he can, even if he appears to look shameless. Some of these interactions are quite questionable that his allies can be quite exasperated with him. He also has the penchant to make bad jokes and whenever the opportunity arises, he will flex himself. Nevertheless, he is quite social and likes holding conversations with his friends, going over various topics or trends that mutually share his interests. He looks out for his allies and gives his moral support whenever they need it.</p> <p>And most importantly, he will absolutely never back down from a challenge, as serious or even silly as it can be. To be a Trailblazer, is to forge ahead undaunted.</p>",
+        "trivia": [
+          "He has two pets; a miniature pig named Ivory Menace and a giant Flemish rabbit named Pom-Pom Jr. One has a destructive personality with their cuteness, the other is a refined scholar who will silently judge Caelus if he touches the TV remote",
+          "Everyone is telling him to train Ivory Menace and regain control of his household, but unfortunately there’s dwindling hope that will happen",
+          "Sleeps in a cardboard box most of the time. Mostly because Ivory Menace took the bed and Pom-Pom Jr took the couch.",
+          "While he’s been able to suppress it deep down since his first trial, recent events has made his nihilism creep up a tiny bit again"
+        ],
+        "application_link": "https://docs.google.com/document/d/1Un3cT1HQp8gAclbJju_soXMvCJGYmRgCa36AxMI7A04/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_CAELUS_.png",
+        "banner_img": "images/banners/caelus.png",
+        "icon": "images/icons/caelus_icon.jpg",
+        "color_code": "#777777"
+      },
+      "plotting": {
+        "preferred_areas": "Anywhere, especially areas with trash, but his current favorite go-to places are: Bathaus",
+        "interaction_notes": "Caelus is a bit of a wildcard. He can have a decent conversation, but likes teasing and ragebaiting (sometimes it's unintentional even) if the opportunity arises. But he has no mean-spirited intentions and is very open to debates and philosophical conversations.",
+        "shipping": "Available, but due to his sexuality, it takes a while for him to form an emotional bond before proceeding to romance",
+        "nsfw": "❓ Limited. Caelus is 18+ so he's fine with the discussion of topics. However, he's not comfortable imagining himself in situations, so this may take him a bit even with a romantic partner.",
+        "plotting_hooks": [
+          "Trash. Unfortunately, he's an actual raccoon and you'll often find him scavenging the trash with his trash can cat.",
+          "Pets. He adores his giant Flemish rabbit Pom-Pom Jr and miniature pig Ivory Menace so much even if he’s on the bottom of the pecking order. He finds his trash cake cat Astral a menace though.",
+          "Training. He is always down for sparring and may show off his other path skills.",
+          "Gaming. Same with training, he's always down for a good gaming session locally or online, whether it's PvP or Co-op. He also likes classical board games too.",
+          "Bats. Oh glorious bats. Of course, the Galactic Baseballer has fashioned himself as a connoisseur to them, so he will always be down to talk about them.",
+          "Selfies. Caelus is but a vain creature who likes taking images at the most opportune and inopportune time. Want to take a shot with him?",
+          "Astral Express. He's always down to talk about his journeys and the cool and stupid things he’s done.",
+          "Cartoons. He really likes classical cartoons like Clockie and Hanu. Always up for chatting about it.",
+          "Automobiles. Want a ride on the Trashinator?"
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "info": {
+        "name": "",
+        "series": "",
+        "identification_no": "",
+        "age": "",
+        "arrival_date": "",
+        "gender": "",
+        "sexuality": "",
+        "housing": "",
+        "rank": "",
+        "classes": "",
+        "guilds": "",
+        "jobs": "",
+        "keywords": "",
+        "desired_subclass": "",
+        "goals": "",
+        "personality": "",
+        "trivia": [""],
+        "application_link": "",
+        "id_card": "",
+        "banner_img": "",
+        "icon": "",
+        "color_code": ""
+      },
+      "plotting": {
+        "preferred_areas": "",
+        "interaction_notes": "",
+        "shipping": "",
+        "nsfw": "",
+        "plotting_hooks": [""]
+      },
+      "relationships": [
+        {
+          "name": "",
+          "level": "",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    }
+  ]
+}
