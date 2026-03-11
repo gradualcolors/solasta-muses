@@ -36,7 +36,7 @@
         "preferred_areas": "Can be found almost anywhere but his current favorite go-to places are: Fortuna Association, Last Stitches, Dynamic Designs, Imaginarium Theatre, Solasta Opera House, Blue Ridge Mall, Moonlight Borough",
         "interaction_notes": "Tsukasa has the energy between an Abyssinian cat and a Shiba Inu, so please be mindful he's extremely social and loud and maybe overdramatic at times! He's a bit of a busybody so he tends to reach out to people. (And honestly I would love to put him more out there.)",
         "shipping": "Tsukasa is <b>closed</b> for shipping. He is completely devoted to his director and moon, <b>Rui Kamishiro</b>.",
-        "nsfw": "✅ Tsukasa is 18. Can partake in discussion of topics but exclusive to partner only.",
+        "nsfw": "✅ - Tsukasa is 18. Can partake in discussion of topics but exclusive to partner only.",
         "plotting_hooks": [
           "Meeting Tsukasa at Last Stitches, his other part-time job. He can repair any tears and strike up a conversation about fashion.",
           "Mall. He’s always looking for new places to explore so he can go with his partner or friend in the future.",
@@ -95,7 +95,7 @@
         "preferred_areas": "Anywhere, especially areas with trash, but his current favorite go-to places are: Bathaus",
         "interaction_notes": "Caelus is a bit of a wildcard. He can have a decent conversation, but likes teasing and ragebaiting (sometimes it's unintentional even) if the opportunity arises. But he has no mean-spirited intentions and is very open to debates and philosophical conversations.",
         "shipping": "Available, but due to his sexuality, it takes a while for him to form an emotional bond before proceeding to romance",
-        "nsfw": "❓ Limited. Caelus is 18+ so he's fine with the discussion of topics. However, he's not comfortable imagining himself in situations, so this may take him a bit even with a romantic partner.",
+        "nsfw": "❓ - Limited. Caelus is 18+ so he's fine with the discussion of topics. However, he's not comfortable imagining himself in situations, so this may take him a bit even with a romantic partner.",
         "plotting_hooks": [
           "Trash. Unfortunately, he's an actual raccoon and you'll often find him scavenging the trash with his trash can cat.",
           "Pets. He adores his giant Flemish rabbit Pom-Pom Jr and miniature pig Ivory Menace so much even if he’s on the bottom of the pecking order. He finds his trash cake cat Astral a menace though.",
@@ -112,11 +112,123 @@
     },
     {
       "info": {
+        "name": "Natsume Sakasaki",
+        "series": "Ensemble Stars!!",
+        "identification_no": "D-M4G1C14N",
+        "age": "18",
+        "arrival_date": "10/7/2024",
+        "gender": "Nonbinary (he/she/they)",
+        "sexuality": "Pansexual",
+        "housing": "Rose Point, Townhouse #1 w/ Mao Isara",
+        "rank": "Moros",
+        "classes": "Artisan/Navigator",
+        "guilds": "Driftweavers (Intern)",
+        "jobs": "Inventory Associate @ Haunted Oddities",
+        "keywords": "secretive, whimsical, empathetic",
+        "desired_subclass": "Navigator <i>(Achieved)</i>",
+        "goals": "To return back to Switch",
+        "personality": "<p>Natsume is a tricky boy who relies on his wits and intelligence to adapt to various situations. He usually works behind the scenes to tactfully gain benefits for himself and his unit. He can also be quite petty and those who mock or wrong him will earn a grudge for a long time.</p> <p>While he is called a genius and acts like one, in actuality, he works very hard and desperately to catch up to those he admires, the other four Eccentrics. However, time and time again, he feels he’s still inferior to them and wishes to overcome his weakness, especially after they sacrificed their reputations to protect him. Due to this, he can lose his way when his heart wavers and place burdens on his own heart.</p> <p>Natsume can act quite mysterious and at times quite capricious, but it’s really to hide his true feelings. This is especially the case for when he’s being kind but refuses to say so until someone points it out. Nevertheless, Natsume is very empathetic and has a desire to protect the weaker and the outcasts, being in the same position once. To that end, he will cling to his ideals of being a magician to write the pages of a new story for his audience. Isn’t that what happy endings are for?</p>",
+        "trivia": [
+          "Growing a small indoor garden, still debating if he needs to move it outdoors anywhere",
+          "Has recently adopted two kittens named Apollo and Artemis"
+        ],
+        "application_link": "https://docs.google.com/document/d/1ImLh3bsEtM0TnWwwPLHwmk8M8uS6ft8k4649Ou2KxBk/edit?usp=sharing",
+        "id_card": "images/ids/natsume_id_card.png",
+        "banner_img": "images/banners/natsume.png",
+        "icon": "",
+        "color_code": "#D70035"
+      },
+      "plotting": {
+        "preferred_areas": "His current favorite go-to places are: Haunted Oddities, Blue Ridge Mall, Moonlight Borough, Catpuccino, Wrench & Win, Australe Observatory",
+        "interaction_notes": "Natsume is pretty careful in his interactions, which often paints him a bit shady, but he means well. Sometimes he can be more earnest depending on the situation. Do note, he does have a really sharp tongue if upset.",
+        "shipping": "Planned with Mao",
+        "nsfw": "✅ - Natsume is 18+. Can partake in discussion of topics but exclusive to partner only.",
+        "plotting_hooks": [
+          "Fortune telling. He's always up for reading people’s fortunes and will give some decent advice. Typically, he can be found in the Bazaar for that on the occasion he opens shop.",
+          "Magic. He loves performing magic to people on a whim. You might catch him doing tricks on his own sometime.",
+          "Training. Sometimes he can be found training at the Training Hall.",
+          "Finding him on his job. He can be interacted with while working, whether you’re his coworker or customer.",
+          "Finding him in the middle of his experiments. Sometimes, he'll be conducting outdoor experiments if he's not closed up in his room. His experiments are generally safe, because he would rather not get in trouble. His experiments aren't limited to chemical reactions, as he likes to tinker with broken things to fix them too.",
+          "Rare, wild Pokemon encounter at the Solasta Education Center. Specifically to use the science labs and trying to procure some chemicals and materials.",
+          "Gaming or entertainment facilities. He's a gamer himself so places like Skill Points and Cipher34 highly interest him. He’s also online a lot in the Gamer's club.",
+          "Gardening. It’s one of his hobbies so he'll be in places related to that, like the Moonlight Borough.",
+          "Cats. He loves cats. He has two cats: Artemis and Apollo and he can be found sometimes at Catpuccino.",
+          "Idols. It's a bit of a sore topic for him because he’s missing Switch, but he will gladly give idol-related advice or talk about his experience.",
+          "Staging. He was in charge of Switch's production and was a part of the theatrical troupe Dramatica, so he has much knowledge in regards to that."
+        ]
+      },
+      "relationships": [
+        {
+          "name": "Rui Kamishiro",
+          "level": "trusted",
+          "description": "Secret cousins for real /j",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "info": {
+        "name": "Howan",
+        "series": "Show By Rock!!",
+        "identification_no": "D-TR345UR3",
+        "age": "28",
+        "arrival_date": "10/22/2024",
+        "gender": "Cisfemale (she/her)",
+        "sexuality": "Lesbian",
+        "housing": "Lilac Lane, Block #1 w/ Kiana Kaslana",
+        "rank": "Moros",
+        "classes": "Nurse/Forager",
+        "guilds": "Verdant Preservers (Intern)",
+        "jobs": "Server @ Blue Ridge Mall Food Court, Helper @ Hazelnut Fields",
+        "keywords": "cheerful, hardworking, nostalgic",
+        "desired_subclass": "Forager <i>(Achieved)</i>",
+        "goals": "To return back to Mashumairesh",
+        "personality": "<p>Howan is a sweet, optimistic girl who is also quite adventurous. Her upbringing in the countryside raised her to be a diligent and hardworking person, as well knowing to be grateful to the bountiful harvests and her community. Stories and interactions with her grandmother gave her a bold and curious nature, which sparked her dream to go to Midi City. She loves music and treasures her guitar and friends dearly. However, she does not come without her flaws.</p> <p>She is quite gullible with her naïveté of the city, where once she almost had herself legally bound to a contract forever. She is also quite clumsy in new environments and need to take a bit of time to learn to adjust herself. Her time management can be a little disorganized when it comes to part-time jobs.</p> <p>Howan can also be very oblivious, not realizing her friend's feelings until later. However, she is open to communication and will seek out to address their problems, making her very easy to talk to. Her innocent heart and desire to reach out to others wins out people's hearts.</p> <p>And most importantly, her greatest strength is not giving up her dream and doing what she loves to do: performing music!</p>",
+        "trivia": [
+          "Named the Will-o-wisps Rui gave her during the expedition ‘Mashima’ and ‘Himeko’",
+          "Likes practicing her guitar outside at Moonlight Borough when it’s sunny",
+          "Designated Masamune and Michinaga as Cool Big Bro #1 and Cool Big Bro #2",
+          "Cherishes her friendship with Night Watch"
+        ],
+        "application_link": "https://docs.google.com/document/d/1sqCmW-zOmz77HJUCmU1VWW5S2wIM8QD7Q4qGKmcWcow/edit?usp=sharing",
+        "id_card": "images/ids/howanrai.png",
+        "banner_img": "images/banners/howan.png",
+        "icon": "",
+        "color_code": "#f6a4b0"
+      },
+      "plotting": {
+        "preferred_areas": "Anywhere, especially music-oriented, but her current favorite go-to places are: Imaginarium Theatre, Moonlight Borough",
+        "interaction_notes": "Very social and happy to interact with others!! She is an Artic Fox Myumon, so her mannerisms come off quite affectionate and playful. She's a bit slow to understand things, but everything she says comes from the heart and she easily trusts people.",
+        "shipping": "Unavailable, Howan is heavily implied to be dating Mashima Himeko at her canon point, therefore she is <b>closed</b> to relationships.",
+        "nsfw": "❌ - Howan is listed 18, but I strongly feel she doesn't have the maturity to partake in these topics.",
+        "plotting_hooks": [
+          "Music!! You can find her in places anywhere related to music or her performing a street live. She will happily talk about songs, composing, and her band.",
+          "Guitar/Instruments. Similarly, you can find her in places related to music, but she has knowledge about the guitar especially, though her way of talking about them is less on the technical side…",
+          "Training. She’s been steadily practicing with her new weapon since she ranked up, and she will appreciate help on that.",
+          "City. Howan’s from the countryside but she loves exploring new places in the big city and will happily ask for guidance.",
+          "Classes. She’s a Nurse/Forager. She will happily help out and give advice as a nurse, but she would love to receive advice back as well as on her Forager subclass.",
+          "Farming. She grew up in a farming village, so she loves to volunteer helping out at Hazelnut Fields.",
+          "Homeland. Curious about her fox ears and tail? She would be glad to talk in detail about Midi City and its citizens",
+          "Cooking. She loves cooking and is always on the search for new recipes, especially trendy ones in the city!",
+          "Housework. Like cooking, Howan is extremely comfortable with housework and can offer to help out!"
+        ]
+      },
+      "relationships": [
+        {
+          "name": "Ithaqua",
+          "level": "trusted",
+          "description": "A cherished friend, who always looks after her. He may think he's a monster, but she sees under his mask for who he is.",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "info": {
         "name": "",
         "series": "",
         "identification_no": "",
         "age": "",
-        "arrival_date": "",
+        "arrival_date": "12/12/2024",
         "gender": "",
         "sexuality": "",
         "housing": "",
