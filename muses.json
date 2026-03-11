@@ -3,6 +3,7 @@
     {
       "info": {
         "name": "Tsukasa Tenma",
+        "emoji": "🌟",
         "series": "Project Sekai",
         "identification_no": "D-5P0T1IGH7",
         "age": "18",
@@ -64,6 +65,7 @@
     {
       "info": {
         "name": "Caelus",
+        "emoji": "💫",
         "series": "Honkai Star Rail",
         "identification_no": "B-64L4C71CB453B4LL3R",
         "age": "21",
@@ -113,6 +115,7 @@
     {
       "info": {
         "name": "Natsume Sakasaki",
+        "emoji": "⚡",
         "series": "Ensemble Stars!!",
         "identification_no": "D-M4G1C14N",
         "age": "18",
@@ -169,9 +172,10 @@
     {
       "info": {
         "name": "Howan",
+        "emoji": "🎸",
         "series": "Show By Rock!!",
         "identification_no": "D-TR345UR3",
-        "age": "28",
+        "age": "18",
         "arrival_date": "10/22/2024",
         "gender": "Cisfemale (she/her)",
         "sexuality": "Lesbian",
@@ -224,41 +228,394 @@
     },
     {
       "info": {
-        "name": "",
-        "series": "",
-        "identification_no": "",
-        "age": "",
-        "arrival_date": "12/12/2024",
-        "gender": "",
-        "sexuality": "",
-        "housing": "",
-        "rank": "",
-        "classes": "",
-        "guilds": "",
-        "jobs": "",
-        "keywords": "",
-        "desired_subclass": "",
-        "goals": "",
-        "personality": "",
-        "trivia": [""],
-        "application_link": "",
-        "id_card": "",
-        "banner_img": "",
+        "name": "Sakichi Ishida",
+        "emoji": "🍵",
+        "series": "Rengoku ni Warau",
+        "identification_no": "B-V1RTU3M4R7YR",
+        "age": "21",
+        "arrival_date": "02/04/2025",
+        "gender": "Cismale (he/him)",
+        "sexuality": "Bisexual",
+        "housing": "Lilac Lane, Block #2 w/ Nikki, Belle, and Polyxia",
+        "rank": "Skia",
+        "classes": "Navigator",
+        "guilds": "Disaster Recorders (Intern)",
+        "jobs": "Errand Runner @ City Hall",
+        "keywords": "straightforward, courageous, idealist",
+        "desired_subclass": "Guardian <i>(Not achieved)</i>",
+        "goals": "To remain here and become an ideal leader",
+        "personality": "<p>Sakichi is a straightforward and blunt young man, unafraid to be direct and speak out his thoughts. Due to his stiff personality, he has earned animosity around him, making many enemies and only having a few friends. However, despite his shortcomings, he is very clever and resourceful, and especially determined to carry out his tasks no matter what strife he must go through. This determination also makes him rather bold and reckless, and while many have noted him to be ‘an inexperienced, but idealistic fool’, some can’t help but be charmed by his purity and honorable nature, wanting to support him.</p> <p>Sakichi believes the most that heroes could change the world and wishes his name could go down like that. However, he doesn’t have confidence in himself as a leader as he knows he is disliked by many, but tries his best to grow more on his journey to be able to build more alliances and friendships.</p> <p>He is fervently loyal and protective to those he cares about: his master Hideyoshi, who influenced his own ideals of how to change the world, and his strong bond with the Kumou twins, who lit his desire to make his ideal world to become one without war.</p>",
+        "trivia": [
+          "He named the water horse he caught on his first expedition as “Suiren”",
+          "He respects his roommates and often gets up early to make their meals if he can.",
+          "Finally understood how an electric rice cooker works.",
+          "His personal mementos are a cloud pattern fan and an ornate pipe. Strangely, he had them on him when he arrived here, knowing who their owners were...",
+          "Owns two black twin cats named Baren and Okuni"
+        ],
+        "application_link": "https://docs.google.com/document/d/1EtpOzO4euaXLLKRIwK1XtJMiA-TQVVdTT8qDKjmCqpU/edit?usp=sharing",
+        "id_card": "images/ids/raisakichi_id.png",
+        "banner_img": "images/banners/sakichi.png",
         "icon": "",
-        "color_code": ""
+        "color_code": "#80A867"
       },
       "plotting": {
-        "preferred_areas": "",
-        "interaction_notes": "",
-        "shipping": "",
-        "nsfw": "",
-        "plotting_hooks": [""]
+        "preferred_areas": "His current go-to places are: City Hall, Fortuna Association, Moonlight Borough",
+        "interaction_notes": "He is very reserved and formal, being a traditional Japanese samurai. However, he is surprisingly progressive and would genuinely love to learn new ways to live and enjoy life. Things that are nostalgic to him make him feel joy.",
+        "shipping": "Unavailable, Sakichi is <b>closed</b> for relationships. Before his death, he was allowed into the Kumou family as a ‘son-in-law’ with Okuni as his wife. He also had a relationship with her twin brother Baren.",
+        "nsfw": "✅ - Sakichi is 18+. Discussion of topics and jokes are fine with him, though it may irritate him. He is uninterested in anything else.",
+        "plotting_hooks": [
+          "Training. He takes training seriously and even though he’s a Navigator he doesn’t wish to slack off on his swordsmanship. He is also trying to improve using a gun.",
+          "Swords. While he is by no means an expert, his eye is well trained enough to discern swords and he would engage in conversation about forges and fighting styles.",
+          "Tea. He’s used to serving tea to his lord before, so he’s well versed in tea ceremonies. While he’s used to the traditional tea served back home, he is open to learning more about new flavors and styles of tea.",
+          "Modern day trends/Technology. He is unfortunately behind the times, so he would be grateful to learn more about the modern day and technology.",
+          "Horses. He really likes horses, especially his water horse and the one he left back home.",
+          "Cats. Owner of two tricky mischievous cats, Okuni and Baren. He often takes them out to play or they’ll cause a mess in his house."
+        ]
       },
       "relationships": [
         {
-          "name": "",
-          "level": "",
-          "description": "",
+          "name": "Nikki",
+          "level": "friend",
+          "description": "One of his roommates, whom he looks after like the little sister he never had.",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "info": {
+        "name": "Yosuke Hanamura",
+        "emoji": "🎧",
+        "series": "Persona 4",
+        "identification_no": "D-W0M4NIZ3R",
+        "age": "18",
+        "arrival_date": "03/31/2025",
+        "gender": "Cismale (he/him)",
+        "sexuality": "Closeted homosexual that’s not really in denial anymore. Probably.",
+        "housing": "Silklight Lofts, Second Floor, E-2",
+        "rank": "Skia",
+        "classes": "Nurse",
+        "guilds": "Anomaly Archivists (Intern)",
+        "jobs": "General Manager at Twilight Pass (Night Shift)",
+        "keywords": "easygoing, conformist, kind",
+        "desired_subclass": "Guardian or Forager <i>(Not achieved)</i>",
+        "goals": "To return back to the Investigation Team and stop the tournament",
+        "personality": "<p>Yosuke is a pretty friendly and casual guy, with a tendency to act like wannabe casanova. However, he tends to get in trouble with his foot-in-mouth syndrome, his insensitive remarks often earning him the ire of friends. Despite struggling to get motivated with his studies, he is quite intelligent and is often the second opinion the protagonist will turn to when deducing cases.</p> <p>His cheerfulness used to be a facade for him to fit in with his peers when he first moved into Inaba, fully aware that people were talking about him behind his back. He hid that spitefulness and boredom for the countryside deep in his heart, until he was forced to face himself during the investigation of Saki Konishi&rsquo;s death, a girl whom he had feelings for.</p> <p>Being able to overcome himself, Yosuke is able to become more honest and acknowledge his flaws. The death of Saki weighs heavily on his mind and it becomes the foundation of his strong sense of justice. But due to that, he can be conflicted by his own emotions when faced with the moral choice of killing the supposed murderer or not. He also often worries his own boredom and desire for excitement in his life would bring back his shadow one day.</p>",
+        "trivia": [
+          "He took the night shift for Twilight pass from 9pm - 6am so he could take it more easy, but he’s starting to regret his choices",
+          "Absolutely terrified walking out in public now and getting spotted by the people who greeted him first in Solasta. I mean who wouldn’t be when you get threatened to be tossed in a tornado--"
+        ],
+        "application_link": "https://docs.google.com/document/d/1xegseAKti-TAsdnLIlKxymKmdtA9eDBujYXKgNdpA1I/edit?usp=sharing",
+        "id_card": "images/ids/raihanamu_id.png",
+        "banner_img": "images/banners/yosuke.png",
+        "icon": "",
+        "color_code": "#FF7F00"
+      },
+      "plotting": {
+        "preferred_areas": "Mostly places around the city, but his current go-to places are: Twilight Pass, Dynamic Designs, Blue Ridge Mall",
+        "interaction_notes": "Pretty social, but in the customer service kind of way. He can easily talk to strangers but given the nature of the city, he’s a bit reserved and cautious though has a tendency to say the wrong thing. When he loosens up, he’s very chill. Celebrities are a different story.",
+        "shipping": "Available and fine with polyamorous relationships",
+        "nsfw": "✅ - Yosuke is 18+. Can partake in discussion of topics but exclusive to partner only.",
+        "plotting_hooks": [
+          "Music. He likes collecting CDs of music he likes, especially western music.",
+          "Idols. He’s an absolute idol fan and has been observing Dreamweaver Talent like a hawk. If you mention it to him though, he’ll get extremely embarrassed.",
+          "Fashion. He’s always looking at the latest fashion trends and new accessories to wear, like headphones or bracelets.",
+          "Classes. He’s actually still deciding on his subclass so having a conversation about classes and expeditions might enlighten him to choose a subclass.",
+          "Personas. As a Persona user, the topic of Personas heavily interests him, especially learning there are other Persona users out there.",
+          "Job. If you’d like to lend an ear he is always bemoaning about his night shift at Twilight Pass.",
+          "Mall. Lately he’s been interested in exploring places at the mall, especially the night clubs when he can get a day off."
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "info": {
+        "name": "Brynhildr Vilulf",
+        "emoji": "🏹",
+        "series": "Identity V",
+        "identification_no": "C-H16H5345",
+        "age": "22",
+        "arrival_date": "07/20/2025",
+        "gender": "Cisfemale (she/her)",
+        "sexuality": "Bisexual, leaning to women",
+        "housing": "Southern Glen, Block #2, 204 w/ Ritsu Sakuma",
+        "rank": "Skia",
+        "classes": "<s>Navigator</s> Forager (This muse has changed classes due to lore reasons)",
+        "guilds": "Search and Rescue (Intern)",
+        "jobs": "Lifeguard @ Cap'n's Cove",
+        "keywords": "free-spirited, unrestrained, absurd ",
+        "desired_subclass": "Guardian <i>(Not achieved)</i>",
+        "goals": "To return to the living and kill that traitor.",
+        "personality": "<p>Brynhildr has a free-spirited and unpredictable spirit, unrestrained by limitations set on her. She was beloved by her fellow clansmen, but she often clashed with her eldest brother who was more rational and rigid. Like much of the Vilulf, she was quite proud of her heritage, being the granddaughter of 'Redbeard' and the daughter of Lagertha.</p> <p>Aspiring to be just like her mother, Brynhildr inherited her courage and tenacity, eventually proving to her that she had the strength to become a captain after dedicating years to her craft. However, after she became a captain, her recklessness earned her trouble with the law. Furthermore, her naivety and carelessness failed to prepare her for the inevitable betrayal by her own brother that led to the massacre of their clan by the naval fleet's hands. For the first time in her life, she questioned her own birth and if she truly deserved to have been born.</p> <p>After witnessing the destruction of her clan and her mother dying in the blizzard to protect her, Brynhildr changed forever. She could no longer live wildly or happily. Her reliance on alcohol became worse to cope with all the deaths, and her thoughts became muddled between dream and reality. The only thing that she could remember rationally and with fury, was that <b>she needed to kill the traitor.</b></p>",
+        "trivia": [
+          "She does not remember her death, but she does have fragmented memories of her dreams and delusions during the ‘Behold the Vilulf’ event."
+        ],
+        "application_link": "https://docs.google.com/document/d/1sBNxFKujbi4HzcXGeSvqoErOq0SNsitcAmEwKbONeYY/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_Brynhildr Vilulf_.png",
+        "banner_img": "images/banners/brynhildr2.png",
+        "icon": "",
+        "color_code": "#CB7723"
+      },
+      "plotting": {
+        "preferred_areas": "Her current go-to places: Lake Tycho, Bellflower Medical, Cap'n's Cove",
+        "interaction_notes": "Typically she's very social, but since coming back from her trial has taken away something important from her, so she's a little more lifeless than how she was originally was. Still loud and boisterous.",
+        "shipping": "Available",
+        "nsfw": "✅ - Brynhildr is 18+. Can partake in discussion of topics but would not mind flings. ",
+        "plotting_hooks": [
+          "Expedition. If anyone would like to check in on her after her revival, she would be surprised, but does not mind visitors. This includes people who didn't go on the expedition.",
+          "Drinking. She would be down for a drink if she's allowed upon her return and discharge from the hospital.",
+          "Pirates. If she has the energy to, she'll yap on about her adventures as a pirate.",
+          "Sea. She may not travel across anymore, but she still likes watching the sea. She's also a very good swimmer",
+          "Family. Curious to know about the Vilulfs? She'll gladly talk about her clan and their history."
+        ]
+      },
+      "relationships": [
+        {
+          "name": "Ithaqua",
+          "level": "family",
+          "description": "They might be generations apart and lived in completely different worlds, but maybe he's a Vilulf too... He reminds him of that person.",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "info": {
+        "name": "Idia Shroud",
+        "emoji": "💀",
+        "series": "Twisted Wonderland",
+        "identification_no": "C-G100MUR4I",
+        "age": "18",
+        "arrival_date": "08/05/2025",
+        "gender": "Cismale (he/him)",
+        "sexuality": "Bisexual disaster",
+        "housing": "Honeydew Point, Third Floor, B-3",
+        "rank": "Skia",
+        "classes": "Artisan",
+        "guilds": "Code Crackers (Intern)",
+        "jobs": "Cybersecurity Analyst @ City Hall (Remote)",
+        "keywords": "diligent, mournful, pathetic",
+        "desired_subclass": "Forager or Navigator <i>(Not achieved)</i>",
+        "goals": "Instructions unclear.",
+        "personality": "<p>Offline, Idia gives the impression of an inept and pathetic boy with zero social skills whatsoever. He is naturally anxious to be around other people and rejects nearly every offer to hang out with anyone, especially those he labels as extroverts. His communication skills are so poor that he frequently uses a tablet to speak in his place when he has to. However, when he does have the chance to speak with others in person, he can be rather candid and mean-spirited which makes him highly dislikeable. He can also be extremely petty and cling on to a grudge for a very long time. When he becomes enraged, his blue hair becomes a burning bright red.</p> <p>Online, he tends to be more social, as he is empowered by anonymity and makes sure no one can dig into his private life. Though he prefers to solo alone, he can become attached to a few friends he has made online such as his online companion Muscle Red. He is extremely dedicated to the grinding of his games and will suffer without having internet. He is also a completely passionate otaku and will go on a tirade about his fixations before he stops himself from inflicting self-humiliation.</p> <p>His gloomy personality aside, Idia is remarkably known for his high intelligence with magic and technology, having built and perfected a security system for his family's research organization and made several advancements. He also displays a high amount of diligence to build the android Ortho, despite going through his grief and borderline insanity from his survivor's guilt.</p>",
+        "trivia": [
+          "If I had a nickel for every time I have to add to his cringe compilation, I would be filthy rich.",
+          "He writes magical girl fanfiction. It has to be canon.",
+          "Gummy worms are the most superior junk food. No questions asked."
+        ],
+        "application_link": "https://docs.google.com/document/d/1BXTBtoL-t9x5e1PKwOH9YGoFXLKjwg_W_95_AQnsFP8/edit?usp=sharing",
+        "id_card": "images/ids/idiarai.png",
+        "banner_img": "images/banners/idia.png",
+        "icon": "",
+        "color_code": "#549CE3"
+      },
+      "plotting": {
+        "preferred_areas": "His current go-to places at specific hours are: Wondercade, Skill Points, Twilight Pass. Otherwise <b>he's nearly home always</b> at Honeydew Point. Currently wants to go to Catpuccino but his social anxiety says no.",
+        "interaction_notes": "<b>He has not chosen to reveal his offline identity so he goes by Charon or Gloomurai online, so please refer to him as those aliases UNLESS muse has access to his information or has met him offline and confirmed his identity.</b> He has a preference for DMs, but can be found in the above locations during the night most of the time. Of course, he’s very skittish but he can interact under circumstances and if he has his tablet.",
+        "shipping": "Available",
+        "nsfw": "✅ - Idia is 18. Can partake in discussion of topics but exclusive to partner only.",
+        "plotting_hooks": [
+          "Gaming. Best way to communicate with Idia. His love for games has no bounds.",
+          "Programming. He works for City Hall remotely from home, but he can be contacted by coworkers.",
+          "Neighbors. Hypothetically, one can do a well-being check on him as a neighbor…",
+          "Cats. He loves cats so much but he’s too scared to go to Catpuccino. Cats are scared of him though because he’s so freaky baby-talking them.",
+          "Idols/Anime/Otaku things. If you don’t mind his autism going off essays about his hyperfixations, then it’s a point of engagement for him.",
+          "Horror movies. Same as otaku things, except he’s either more critical or fanatical about movies.",
+          "Robotics. A sore point for him, but he is highly intelligent in this field and maybe with a bit of encouragement, he can hold a discussion.",
+          "Magic. Also a sore point for him but to less of a degree. He can talk about the fundamentals of magic and technology involved.",
+          "<s>Fanfiction. If you somehow managed to find his written fanfics of the class leaders</s> <b><i>THIS IS TOP SECRET!!!</i></b>"
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "info": {
+        "name": "Cipher",
+        "emoji": "🪙",
+        "series": "Honkai Star Rail",
+        "identification_no": "",
+        "age": "C-7R1CK3RY",
+        "arrival_date": "11/18/2025",
+        "gender": "Bigender (she/he)",
+        "sexuality": "Bisexual",
+        "housing": "Southern Glen, Block #3, 304",
+        "rank": "Skia",
+        "classes": "Forager",
+        "guilds": "Tollbearers (Intern)",
+        "jobs": "Courier @ Midtown Express, Part-time Waiter @ Catpuccino",
+        "keywords": "whimsy, fleeting, noble",
+        "desired_subclass": "Artisan <i>(Not achieved)</i>",
+        "goals": "Start over a new leaf and have fun",
+        "personality": "<p>Her factor was modeled after the path of Elation, thus Cipher chooses to live freely and steal anything that fancy her whimsy. She has an unrestrained and daring personality that allows him to brave each heist she draws to steal. She is relentless in obtaining the things he wants, even patiently waiting for months in disguise as a priest to steal a valuable treasure in the Dawncloud. Being the Demigod of Trickery, his lies are so convincing it even becomes the truth with her powers. However, she does not choose to use her trickery to inflict evil, instead for using it for the occasional mischief and usually for her veiled chivalry to help the poor and misfortunate.</p> <p>Despite posing a jaded attitude towards the responsibility of a Chrysos Heir, Cipher holds her duty seriously, upholding his promise to Phainon to protect the Worldbearing Coreflame, even as the cost of her life. To this day, she holds deep regret in her heart having to leave Okhema behind, because of the grand lie that he constructed to protect the holy city. While he can hide her emotions carefully, there are those she doesn't wish to see behind her lies, to see his vulnerabilities of being around the people she loved, instead of constantly running away.</p>",
+        "trivia": [
+          "Interchangeable pronouns to her/his mood (though she really prefers being called Lord Cipher rather than Lady Cipher)"
+        ],
+        "application_link": "https://docs.google.com/document/d/1vey0j5vah0Dy-6hrM4sv5XwNp1XUSJSiG8ZWzDvV4Xg/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_CIFERA_.png",
+        "banner_img": "images/banners/cipher.png",
+        "icon": "",
+        "color_code": "#D8D8D8"
+      },
+      "plotting": {
+        "preferred_areas": "Anywhere, since she’s new to Solasta. His current go-to places are: Midtown Express, the Bazaar, Catpuccino.",
+        "interaction_notes": "She’s very social but he has a silver tongue so be careful with your wallet! She’s less prone to stealing now but it doesn’t mean she won’t manipulate you to spend on him. However, the money does go towards more toys and treats for the cats at the Catpuccino.",
+        "shipping": "Available",
+        "nsfw": "✅ - Cipher is 18+. Can partake in discussion of topics but would definitely not mind flings. ",
+        "plotting_hooks": [
+          "Cats. Works at the Catpuccino and being a catgirl herself, she really likes cats.",
+          "Speed. Be careful if you choose to race him.",
+          "Mischief. Being the Demigod of Trickery, she really likes to get up to trouble, so count her in for any pranks!",
+          "Pickpocketing. Well, she won't actively rob stores or vendors but she may occasionally pickpocket people to his whimsy.",
+          "Chrysos Heir. She’s always welcome to interact with her fellow Chrysos Heirs, though they're not going to fix her habits much.",
+          "Gaming and Puzzles. He loves games and puzzles, from playing to making puzzles like leaving clues to decipher for things she happens to steal and have yet to return.",
+          "Disguise. There's a chance he or she might disguise herself for fun. If discussed ahead of time, she can disguise as you to cause some mischief."
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "info": {
+        "name": "Luca Balsa",
+        "emoji": "⛓️",
+        "series": "Identity V",
+        "identification_no": "D-P3RP3TU4LM0T10N",
+        "age": "21",
+        "arrival_date": "01/10/2026",
+        "gender": "Cismale (he/him)",
+        "sexuality": "Bisexual",
+        "housing": "The Nest, Third Floor, E-3",
+        "rank": "Skia",
+        "classes": "Artisan",
+        "guilds": "N/A",
+        "jobs": "Inventor @ Wrench & Win",
+        "keywords": "intelligent, conceited, stubborn",
+        "desired_subclass": "Forager <i>Not achieved)</i>",
+        "goals": "Complete the perpetual engine",
+        "personality": "<p>Before the accident, Luca had been a kind and trusting person. He admired his teacher Alva Lorenz with all his heart, even likening himself as &ldquo;Lorenz Junior&rdquo;, thinking Alva like a father to him over his own despised one, Herman Balsa, who left him and his mother during childhood. However, he became infuriated upon learning the truth of what happened between Alva and his father, and that Alva had retained some of Herman's manuscripts. Overcome by rage with the thought, he recklessly attacked his mentor, leading to his ill-fated experiment to explode during the fight.</p> <p>Now Luca is left a shell of himself after the accident, having little memories and severe and chronic headaches that cause him much pain. He also became traumatized from his time being incarcerated. Despite losing so much and his thinking processes being severely diminished, Luca still maintains his pride, intelligence and curiosity as inventor. He becomes relentless whenever he encounters something new to discover its inner workings, even if it may be risky to do so. When Luca is so focused on something, he becomes less aware of his surroundings, making him susceptible to danger. But he is willing to take on those risks, because he has nothing to lose.</p> <p>And finally, the most important trait that makes Luca unique, is his obsession with his invention. No matter what, nor the cost of it, he is determined to see that he completes his life's work, never turning back.</p>",
+        "trivia": [
+          "His headaches come at random, but especially triggered with loud constant noises"
+        ],
+        "application_link": "https://docs.google.com/document/d/1Bbr_RA4R5QbR4rFzV0X9EEEPcUNqzlcIGXMM0snWJqU/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_Luca Balsa_.png",
+        "banner_img": "images/banners/lucabalsa.png",
+        "icon": "",
+        "color_code": "#13265C"
+      },
+      "plotting": {
+        "preferred_areas": "Wrench & Win, The Hearth, anywhere not loud!",
+        "interaction_notes": "He's sociable within reason, especially once you start talking about things that catch his interest.",
+        "shipping": "Available",
+        "nsfw": "✅ - Luca is 18+. Can partake in discussion of topics.",
+        "plotting_hooks": [
+          "Expedition. He's quite interested in discussing about recent expeditions.",
+          "Inventions. Fair warning, he has an itch to dismantle things. Either he will be deadly silent focused on things, or he will not shut up, yapping away about a multitude of things!",
+          "His condition. Due to the incident, he's prone to headaches and losing his foothold at times. Also may or may not electrify you."
+        ]
+      },
+      "relationships": []
+    },
+    {
+      "info": {
+        "name": "Rutile Flores",
+        "emoji": "🪶",
+        "series": "Promise of Wizard",
+        "identification_no": "D-6U1D1NGL1GH7",
+        "age": "20",
+        "arrival_date": "01/12/2026",
+        "gender": "Genderfluid (he/him)",
+        "sexuality": "Pansexual",
+        "housing": "Southern Glen, Block #3, 301 w/ Sylvain Jose Gautier",
+        "rank": "Skia",
+        "classes": "Nurse",
+        "guilds": "N/A",
+        "jobs": "Teacher @ Solasta Education Center",
+        "keywords": "gentle, guiding, weak",
+        "desired_subclass": "Forager or Navigator <i>(Not achieved)</i>",
+        "goals": "Revive and return to Mitile and the Sage’s wizards",
+        "personality": "<p>Rutile has a gentle and amicable personality, warm to everyone he meets. He gets along with people very easily, having no issue befriending others no matter who, as he tries to see the good in people, even if it may be hard to see. As a teacher and older brother, he is encouraging to those around and provides guidance and wisdom when he can, especially to the younger ones. He is also extremely passionate about art, often painting or drawing abstract things when he feels inspired.</p> <p>Coming from the Southern Country, he feels strongly that humans and wizards should get along with one another, his proof being his mother having been a witch and his father, a human, loved each other, as well as the Town of Clouds who supported him and Mitile. To that end, Rutile can be incredibly stubborn about his values and ideals, sometimes putting him at odds with Mithra. He cherishes life deeply, having watched the people close to him die, and it is for that reason he cannot bring himself to eat a mana stone, even if it would make him stronger. But when it comes to his brother, he doesn't wish to force those ideals on him, wanting Mitile to grow freely. People have noted when Rutile is similar to his mother in some aspects, like his appearance and the way he smiles.</p>",
+        "trivia": [
+          "He currently has Rui’s Little Lion Dance Robot on loan as a companion and treats it similar to a cat!",
+          "He's making a picture book of his experiences in Solasta."
+        ],
+        "application_link": "https://docs.google.com/document/d/1slj8OvmqMR46r--wOtChiWRBJ90G3lyavTPaeid_SM8/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_Rutile Flores_.png",
+        "banner_img": "images/banners/rutile.png",
+        "icon": "",
+        "color_code": "#f9e09e"
+      },
+      "plotting": {
+        "preferred_areas": "Solasta Education Center, Lake Tycho, The Hearth, almost anywhere",
+        "interaction_notes": "Rutile is incredibly social and will easily start a conversation with anyone! He has no sense of danger whatsoever.",
+        "shipping": "Available",
+        "nsfw": "✅ - Rutile is 18+. Can partake in discussion of topics but exclusive to partner only.",
+        "plotting_hooks": [
+          "Teaching. Rutile is a teacher and would be happy to teach things or give additional lessons to help.",
+          "Magic. While he may not be a strong wizard, he can perform basic magic and demonstrate. He can also fly very fast on his broom!!",
+          "Flying. Like magic, he can demonstrate his flying and even offer a ride! Be careful not to fall off!",
+          "Family. He loves talking about his family, especially his little brother.",
+          "Painting. He's always looking for inspiration to paint or draw vividly abstract things."
+        ]
+      },
+      "relationships": [
+        {
+          "name": "Rui Kamishiro",
+          "level": "friend",
+          "description": "Spiderman pointing meme (same VA)",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "info": {
+        "name": "Iroha Sakayori",
+        "emoji": "🦊",
+        "series": "Cosmic Princess Kaguya!",
+        "identification_no": "D-M00NPR1D3",
+        "age": "18",
+        "arrival_date": "01/26/2026",
+        "gender": "Cisfemale (she/her)",
+        "sexuality": "Lesbian",
+        "housing": "The Nest, First Floor, G-1",
+        "rank": "Skia",
+        "classes": "Guardian",
+        "guilds": "N/A",
+        "jobs": "Producer / Composer @ Dreamweaver Talent, Part-time Waitress @ Rosewood Eats",
+        "keywords": "selfless, indecisive, determined",
+        "desired_subclass": "Artisan <i>(Not achieved)</i>",
+        "goals": "Has not decided anything yet, but she wants Yachiyo and Kaguya to be happy",
+        "personality": "<p>Outwardly, Iroha is the picture of a model honors student and an extremely hard worker that her classmates and co-workers respect. However, despite garnering respect from her peers, she has low confidence in herself and her selfless nature makes her easy to push over. It is for that reason she left her overbearing mother to live on her own, wishing to prove something to her. She dislikes being alone, but quickly matured after living by herself to set up her own priorities and responsibilities. The strictness and diligence she imposes on herself leaves her so fatigued at times, but she was able to foster her own sense of independence as a result.</p> <p>However, that same sense of independence made her hesitant to depend on other people, keeping her problems to herself even if she would collapse from being sick. She easily gets stressed when she's thrown off her routine, especially by Kaguya, but finds herself fond of her companion, unable to say no to her requests because she's too selfless. Iroha has a different side when it comes to going online in Tsukuyomi. She enjoys playing games hardcore and she is an extremely dedicated fan of Yachiyo Runami, always watching her streams and having a little shrine and merch of her.</p>",
+        "trivia": [
+          "She’s intending to wear the fursuit for most activities, which includes livestreams and training as a guardian."
+        ],
+        "application_link": "https://docs.google.com/document/d/1NlKMpGUpichA1HOgnwSS6oNUqlqYW3zzAOSh-c0amwU/edit?usp=sharing",
+        "id_card": "images/ids/SolastaID_Iroha Sakayori_.png",
+        "banner_img": "images/banners/iroha.png",
+        "icon": "",
+        "color_code": "#00bcd4"
+      },
+      "plotting": {
+        "preferred_areas": "Dreamweaver Talent, Rosewood Eats, Eternal Peace Bakery",
+        "interaction_notes": "Iroha can be a bit finicky at first, even hiding behind her fox costume if she feels overwhelmed or nervous, especially in a huge crowd. She does first and foremost puts on her honor student/customer service face to strangers she doesn't know yet on one-on-one level.",
+        "shipping": "Iroha is <b>closed</b> for shipping as she is planned with Kaguya and Yachiyo.",
+        "nsfw": "✅ - Iroha is 18. Can partake in discussion of topics but exclusive to partners only.",
+        "plotting_hooks": [
+          "Fox suit. She's trying to be so inconspicious but that's not working in her favor.",
+          "Composing. She's a songwriter who recently started writing again. She would love to have discussions about music to better the quality of her work.",
+          "Music. On the same note as composing, she likes playing the piano and would not mind talking about it or playing a few pieces.",
+          "Gaming. She's actually a hardcore gamer, but tries to play it off that she's casual. Her aim rate in shooters is at least 90%.",
+          "Producing. She's Kaguya's producer who also collaborates a lot with Yachiyo. Interested in collaborating with Kaguya? You need to go through her.",
+          "Idols. On the same note, she's a very passionate fan for her idol and streamer Yachiyo and may go into emotional fits."
+        ]
+      },
+      "relationships": [
+        {
+          "name": "Kaguya",
+          "level": "love",
+          "description": "Please don't go back to the moon again.",
+          "icon": ""
+        },
+        {
+          "name": "Yachiyo",
+          "level": "love",
+          "description": "You were always there by my side since the beginning.",
           "icon": ""
         }
       ]

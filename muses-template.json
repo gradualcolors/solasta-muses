@@ -1,0 +1,46 @@
+{
+  "muses": [
+    {
+      "info": {
+        "name": "",
+        "emoji": "",
+        "series": "",
+        "identification_no": "",
+        "age": "",
+        "arrival_date": "12/12/2024",
+        "gender": "",
+        "sexuality": "",
+        "housing": "",
+        "rank": "",
+        "classes": "",
+        "guilds": "",
+        "jobs": "",
+        "keywords": "",
+        "desired_subclass": "",
+        "goals": "",
+        "personality": "",
+        "trivia": [""],
+        "application_link": "",
+        "id_card": "",
+        "banner_img": "",
+        "icon": "",
+        "color_code": ""
+      },
+      "plotting": {
+        "preferred_areas": "",
+        "interaction_notes": "",
+        "shipping": "",
+        "nsfw": "",
+        "plotting_hooks": [""]
+      },
+      "relationships": [
+        {
+          "name": "",
+          "level": "",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    }
+  ]
+}
